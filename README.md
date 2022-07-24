@@ -38,14 +38,18 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KNIGHTUNITYDK)  
 
-## Github Metrics
+## Github Metrics:
 
 ![GitHub metrics](https://metrics.lecoq.io/KNIGHTUNITYDK)  
 
-## Github Streak
+## Github Streak:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KNIGHTUNITYDK&theme=holi-theme)](https://git.io/streak-stats)
 
-## Profile Views
+## Trophy:
+
+![Top Trophy](https://github-profile-trophy.vercel.app/?username=KNIGHTUNITYDK&theme=radical-ma&margin-w=15)
+
+## Profile Views:
 
 ![Profile views](https://gpvc.arturio.dev/KNIGHTUNITYDK)  
