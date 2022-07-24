@@ -1,4 +1,5 @@
-###Hi, I am Dishant Khati
+### Hi, I am Dishant Khati
+
 ![head](https://media0.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e477mwwgcx06e3cz6293bbw49rpmflvt8euw3bx89z9&rid=giphy.gif&ct=g)
 
 
@@ -20,28 +21,28 @@
 
 - ⚡ Fun fact: The world’s first computer programmer was a renowned female mathematician
 
-##My Top projects
+## My Top projects
 
 [flappy Bird](https://github.com/KNIGHTUNITYDK/KNIGHTUNITYDK/blob/main/FB.cpp)
 
 [Console](https://github.com/KNIGHTUNITYDK/Console)
 
-##Stats:
+## Stats:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KNIGHTUNITYDK&show_icons=true&count_private=true) 
 
-##Activity Graph:
+## Activity Graph:
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KNIGHTUNITYDK)  
 
-##Github Metrics
+## Github Metrics
 
 ![GitHub metrics](https://metrics.lecoq.io/KNIGHTUNITYDK)  
 
-##Github Streak
+## Github Streak
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KNIGHTUNITYDK&theme=holi-theme)](https://git.io/streak-stats)
 
-##Profile Views
+## Profile Views
 
 ![Profile views](https://gpvc.arturio.dev/KNIGHTUNITYDK)  
