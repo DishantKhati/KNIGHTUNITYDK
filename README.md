@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact: The world’s first computer programmer was a renowned female mathematician
 
-[![Head2]([https://i.gifer.com/Ry6p.gif](https://github.com/KNIGHTUNITYDK/KNIGHTUNITYDK/blob/main/Ry6p.gif))]
+![Head2](https://github.com/KNIGHTUNITYDK/KNIGHTUNITYDK/blob/main/Ry6p.gif)
 
 ## My Top projects:
 
