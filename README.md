@@ -26,4 +26,17 @@ My Top projects
 
 [Console](https://github.com/KNIGHTUNITYDK/Console)
 
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KNIGHTUNITYDK&show_icons=true&count_private=true) 
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KNIGHTUNITYDK)  
+
+
+![GitHub metrics](https://metrics.lecoq.io/KNIGHTUNITYDK)  
+
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KNIGHTUNITYDK)  
+
+
+![Profile views](https://gpvc.arturio.dev/KNIGHTUNITYDK)  
