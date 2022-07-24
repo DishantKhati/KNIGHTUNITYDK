@@ -22,6 +22,8 @@
 
 - ⚡ Fun fact: The world’s first computer programmer was a renowned female mathematician
 
+![head2(/https://i.gifer.com/Ry6p.gif)]
+
 ## My Top projects:
 
 [Flappy Bird](https://github.com/KNIGHTUNITYDK/KNIGHTUNITYDK/blob/main/FB.cpp)
