@@ -14,7 +14,7 @@
 
 - 🤔 I’m looking for help with Javascript(React and Next)
 
-- 💬 Ask me about C++,python and java
+- 💬 Ask me about C,C++,Kotlin,R,python and java
 
 - 📫 How to reach me: [Dishant khati](https://www.linkedin.com/in/dishant-khati-202135217/)
 
