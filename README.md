@@ -36,7 +36,7 @@ My Top projects
 ![GitHub metrics](https://metrics.lecoq.io/KNIGHTUNITYDK)  
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KNIGHTUNITYDK)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KNIGHTUNITYDK&theme=holi-theme)](https://git.io/streak-stats)
 
 
 ![Profile views](https://gpvc.arturio.dev/KNIGHTUNITYDK)  
