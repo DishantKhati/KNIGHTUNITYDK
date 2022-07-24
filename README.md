@@ -1,6 +1,6 @@
 ##### Hi, I am Dishant Khati
 
-
+![head](https://media0.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e477mwwgcx06e3cz6293bbw49rpmflvt8euw3bx89z9&rid=giphy.gif&ct=g)
 
 
 
@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact: The world’s first computer programmer was a renowned female mathematician
 
-![Head1](https://i.gifer.com/Ry6p.gif)
+[![Head2](https://i.gifer.com/Ry6p.gif)]
 
 ## My Top projects:
 
