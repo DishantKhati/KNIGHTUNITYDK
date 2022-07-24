@@ -25,3 +25,5 @@ My Top projects
 [flappy Bird](https://github.com/KNIGHTUNITYDK/KNIGHTUNITYDK/blob/main/FB.cpp)
 
 [Console](https://github.com/KNIGHTUNITYDK/Console)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KNIGHTUNITYDK&show_icons=true&count_private=true) 
