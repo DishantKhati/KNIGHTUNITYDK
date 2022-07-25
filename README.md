@@ -44,10 +44,6 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KNIGHTUNITYDK)  
 
-## Github Metrics:
-
-![GitHub metrics](https://metrics.lecoq.io/KNIGHTUNITYDK)  
-
 ## Github Streak:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KNIGHTUNITYDK&theme=holi-theme)](https://git.io/streak-stats)
